@@ -8,11 +8,16 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Wharton MBA passionate about supporting the founders of world-changing companies.
+    I'm Brittany, an enterprise-focused venture capital investor. Prior to entering the world of VC, 
+    I was a consultant at Deloitte, an operations manager at Uber, an MBA student at Wharton, and an investment
+    partner with Dorm Room Fund. I'm passionate about supporting the founders of world-changing companies, 
+    particularly those focused on the future of work.
+
+    Sound like you? Reach out via brittwalkervc at gmail dot com.
 
   # This photo will be used in the about section
   picture:
-    path:            https://placehold.it/128x128
+    path:            /assets/img/britt_headshot.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
       1x:            https://placehold.it/128x128
