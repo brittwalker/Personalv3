@@ -46,7 +46,9 @@ keywords:              []
 author:
   # Used by `jekyll-feed`:
   name:                Brittany Walker
-  email:               brittwalkervc@gmail.com
+  social:
+    email:               brittwalkervc@gmail.com
+    twitter:             walker_vc
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
