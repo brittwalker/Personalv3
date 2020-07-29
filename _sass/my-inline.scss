@@ -19,6 +19,7 @@ p {
   font-weight: 200;
 }
 
-a.nav-btn:hover {
+a.nav-btn:hover, a.nav-btn:focus, button.nav-btn:hover, button.nav-btn:focus {
   background-image: none;
 }
+
