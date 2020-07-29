@@ -2,8 +2,7 @@
 layout: about
 image: /assets/img/blog/hydejack-9.jpg
 description: >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+I'm an enterprise-focused venture capital investor.
 hide_description: true
 redirect_from:
   - /download/
@@ -13,7 +12,7 @@ redirect_from:
 
 <!--author-->
 
-## Hydejack
+<!-- ## Hydejack
 
 A boutique Jekyll theme for hackers, nerds, and academics.  
 {:.lead}
@@ -175,3 +174,4 @@ Use the the form below to purchase Hydejack PRO:
 [katex]: https://khan.github.io/KaTeX/
 [mathjax]: https://www.mathjax.org/
 [tinyletter]: https://tinyletter.com/
+ -->
