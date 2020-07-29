@@ -20,6 +20,9 @@ p {
 }
 
 a.nav-btn:hover, a.nav-btn:focus, button.nav-btn:hover, button.nav-btn:focus {
-  background-image: none;
+  background-image: none !important;
 }
 
+.navbar>.content::before {
+  box-shadow: none !important;
+}
