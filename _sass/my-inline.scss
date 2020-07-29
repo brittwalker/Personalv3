@@ -10,3 +10,8 @@ hy-push-state a {
 hy-push-state .sidebar a:hover {
   color: lightgray;
 }
+
+.heading, .f1, h1, .h1, .f2, h2, .h2, .f3, h3, .h3, .f4, h4, .h4, .post-date, .sidebar-nav-item, .f5, h5, .h5, .f6, h6, .h6 {
+  font-weight: 300;
+}
+
